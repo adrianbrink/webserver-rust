@@ -1,0 +1,8 @@
+[package]
+name = "webserver-rust"
+version = "0.1.0"
+authors = ["Adrian Brink <adrian@brink-holdings.com>"]
+
+[dependencies]
+nickel = "0.9.0"
+rustc-serialize = "0.3.22"
